@@ -1,0 +1,8 @@
+prefix=/home/steve/Desktop/myRobot/devel
+
+Name: ikfast_interface
+Description: Description of ikfast_interface
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

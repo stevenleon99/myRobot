@@ -1,0 +1,2 @@
+universal_robot/ikfast_interface:universal_robot/python_interface:universal_robot/universal_robots:universal_robot/ur5_moveit_config:universal_robot/ur_description:universal_robot/ur_gazebo:universal_robot/ur_kinematics
+-DCATKIN_DEVEL_PREFIX=/home/steve/Desktop/myRobot/devel -DCMAKE_INSTALL_PREFIX=/home/steve/Desktop/myRobot/install -G Unix Makefiles
